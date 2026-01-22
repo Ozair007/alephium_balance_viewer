@@ -18,7 +18,7 @@ A React + TypeScript application for viewing Alephium (ALPH) wallet balances.
 
 ## Bash Script
 
-A bash script for fetching ALPH balances via CLI is available in `src/lib/get-balance.sh`.
+A bash script for fetching ALPH balances via CLI is available in `src/scripts/get-balance.sh`.
 
 ## Note
 

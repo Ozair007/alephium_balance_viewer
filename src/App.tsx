@@ -1,7 +1,11 @@
+import BalanceViewer from './components/BalanceViewer'
+import { Toaster } from 'sonner'
+
 function App() {
   return (
     <>
-      <h1>Alepium Balance Viewer</h1>
+      <BalanceViewer />
+      <Toaster />
     </>
   )
 }
